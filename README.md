@@ -520,7 +520,7 @@ c. AzzyLand
 - **Net Profit  = $566,400 - $65,000 = $501,400**
 
 
-Best option from category: AzzyLand
+Best option from category: **AzzyLand**
 
 
 #### SQL query 
@@ -600,7 +600,7 @@ c. MrSuicideSheep
 - Campaign cost = $150,000
 - **Net profit = $313,000 - $130,000 = $163,600**
 
-Best option from category: MrSuicideSheep
+Best option from category: **MrSuicideSheep**
 
 
 
@@ -649,7 +649,7 @@ net_profit DESC
 
 ### 3. Youtubers with the most videos uploaded
 
-### Calculation breakdown 
+#### Calculation breakdown 
 
 Campaign idea = sponsored video series  
 
@@ -680,7 +680,7 @@ b. Step News Agency
 - **Net profit = $71,000 - $55,000 = -$4,400 (potential loss)**
 
 
-Best option from category: Yogscast
+Best option from category: **Yogscast**
 
 #### SQL query 
 ```sql
@@ -728,7 +728,7 @@ net_profit DESC
 
 ## Discovery
 
-- What did we learn?
+###What did we learn?
 
 We discovered that, excluding popular music channels
 
