@@ -40,7 +40,7 @@ This is a portfolio showcasing my data analysis of top Canadian Youtubers!
 
 - What is the key pain point? 
 
-The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
+The Head of Marketing aims to identify the top Canadian YouTubers in 2024 to inform strategic marketing campaign collaborations, optimizing engagement and ROI.
 
 
 - What is the ideal solution? 
@@ -751,6 +751,11 @@ We discovered that, excluding popular music channels
 3. MrSuicideSheep is the best YouTuber to collaborate with if we're interested in maximizing reach, but collaborating with AzzyLand and Linus Tech Tips may be better long-term options considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
 4. The top 3 channels to form collaborations with are AzzyLand, Linus Tech Tips and WatchMojo.com based on this analysis, because they attract the most engagement on their channels consistently.
 
+To summarize:
+
+1. AzzyLand: Highest ROI with $501,400 net profit per video.
+2. WatchMojo.com: Best for maximizing visibility.
+3. MrSuicideSheep: Optimal for long-term reach with high engagement.
 
 ### Potential ROI 
 - What ROI do we expect if we take this course of action?
