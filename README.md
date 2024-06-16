@@ -728,7 +728,7 @@ net_profit DESC
 
 ## Discovery
 
-###What did we learn?
+### What did we learn?
 
 We discovered that, excluding popular music channels
 
