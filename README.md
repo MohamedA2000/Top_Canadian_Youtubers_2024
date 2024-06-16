@@ -447,11 +447,11 @@ Here are the key questions we need to answer for our marketing client:
 
 ### 4. Which 3 channels have the highest average views per video?
 
-| Channel Name       | Averge Views per Video (M) |
-|--------------------|----------------------------|
-| The Weeknd         | 157.87                     |
-| Justin Beiber      | 129.75            	  |
-| Super Simple Songs | 64.16            	  |
+|Rank | Channel Name       | Averge Views per Video (M) |
+|-----|--------------------|----------------------------|
+| 1    | The Weeknd         | 157.87                    |
+| 2    | Justin Beiber      | 129.75            	      |
+| 3    | Super Simple Songs | 64.16            	        |
 
 
 ### 5. Which 3 channels have the highest views per subscriber ratio?
