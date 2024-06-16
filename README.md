@@ -115,6 +115,7 @@ For now, these are some of the questions we need to answer, this may change as w
 | Power BI | Visualizing the data via interactive dashboards |
 | GitHub | Hosting the project documentation and version control |
 
+
 # Development
 
 ## Pseudocode
@@ -220,6 +221,7 @@ FROM
     top_canadian_youtubers_2024
 
 ```
+
 
 
 # Testing 
@@ -644,6 +646,7 @@ net_profit DESC
 #### Output
 
 ![Most views](assets/images/SQL_Top3Views.png)
+
 
 ### 3. Youtubers with the most videos uploaded
 
