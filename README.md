@@ -493,7 +493,7 @@ I have omitted Justin Beiber, The Weeknd and SuperSimple Songs from this analysi
 
 Campaign idea = product placement 
 
-1. WatchMojo.com 
+a. WatchMojo.com 
 - Average views per video = 620,000
 - Product cost = $8
 - Potential units sold per video = 620,000 x 2% conversion rate = 12,400 units sold
@@ -508,7 +508,7 @@ b. Linus Tech Tips
 - Potential units sold per video = 1.14 million x 2% conversion rate = 22,800 units sold
 - Potential revenue per video = 22,800 x $8 = $182,400
 - Campaign cost (one-time fee) = $65,000
-- **Net  = $182,400 - $65,000 = $117,400**
+- **Net Profit = $182,400 - $65,000 = $117,400**
 
 c. AzzyLand
 
@@ -517,7 +517,7 @@ c. AzzyLand
 - Potential units sold per video = 3.54 million x 2% conversion rate = 70,800 units sold
 - Potential revenue per video = 70,800 x $8 = $566,400
 - Campaign cost (one-time fee) = $65,000
-- **Net  = $566,400 - $65,000 = $501,400**
+- **Net Profit  = $566,400 - $65,000 = $501,400**
 
 
 Best option from category: AzzyLand
