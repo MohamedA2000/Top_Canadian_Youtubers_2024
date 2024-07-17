@@ -414,7 +414,7 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name         | Subscribers (M) |
 |------|----------------------|-----------------|
-| 1    | Justin Beiber	      | 69.70           |
+| 1    | Justin Bieber	      | 69.70           |
 | 2    | Super Simple Songs   | 37.30           |
 | 3    | The Weeknd           | 28.70           |
 | 4    | WatchMojo.com        | 24.70           |
@@ -450,7 +450,7 @@ Here are the key questions we need to answer for our marketing client:
 |Rank | Channel Name       | Averge Views per Video (M) |
 |-----|--------------------|----------------------------|
 | 1    | The Weeknd         | 157.87                    |
-| 2    | Justin Beiber      | 129.75            	      |
+| 2    | Justin Bieber      | 129.75            	      |
 | 3    | Super Simple Songs | 64.16            	        |
 
 
@@ -483,7 +483,7 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
 - total views
 - videos uploaded
 
-I have omitted Justin Beiber, The Weeknd and SuperSimple Songs from this analysis because while music channels on YouTube boast substantial viewership, this high engagement often does not translate into increased product sales. Music content primarily attracts viewers interested in entertainment rather than purchasing decisions. Therefore, excluding these channels from our analysis will allow us to focus on more relevant content creators whose audiences are more likely to engage with and purchase our products.
+I have omitted Justin Bieber, The Weeknd and SuperSimple Songs from this analysis because while music channels on YouTube boast substantial viewership, this high engagement often does not translate into increased product sales. Music content primarily attracts viewers interested in entertainment rather than purchasing decisions. Therefore, excluding these channels from our analysis will allow us to focus on more relevant content creators whose audiences are more likely to engage with and purchase our products.
 
 ## Validation 
 
