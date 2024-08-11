@@ -371,8 +371,8 @@ RETURN finalAvgViewsPerVideo
 ```sql
 Subscriber Engagement Rate = 
 VAR sumOfTotalSubscribers = SUM(view_can_youtubers_2024[total_subscribers])
-VAR sumOfTotalVideos = SUM(view_can_youtubers_2024[total_videos])
-VAR subscriberEngRate = DIVIDE(sumOfTotalSubscribers, sumOfTotalVideos, BLANK())
+VAR sumOfTotalViews = SUM(view_can_youtubers_2024[total_views])
+VAR subscriberEngRate = DIVIDE(sumOfTotalSubscribers, sumOfTotalViews, BLANK())
 
 RETURN subscriberEngRate 
 
